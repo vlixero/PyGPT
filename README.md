@@ -1,6 +1,9 @@
 # PyGPT
 PyGPT Chatbot is a powerful and interactive conversational AI powered by OpenAI's GPT-3.5 engine. This Python-based chatbot allows users to engage in dynamic and creative conversations in a text-based format, creating a unique and immersive experience for users.
+
+
 ![Screenshot_2023-09-30_19_32_26](https://github.com/vlixero/PyGPT/assets/136660615/5a2648a4-3345-4a47-a4c7-c934acbc58e8)
+
 
 Features:
 
